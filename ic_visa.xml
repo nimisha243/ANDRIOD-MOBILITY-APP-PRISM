@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    
+    <!-- Background -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M2,6C2,4.89 2.89,4 4,4H20C21.11,4 22,4.89 22,6V18C22,19.11 21.11,20 20,20H4C2.89,20 2,19.11 2,18V6Z"/>
+        
+    <!-- Visa Logo -->
+    <path
+        android:fillColor="#1A1F71"
+        android:pathData="M4.5,14.5l1.5,-7h2.4l-1.5,7h-2.4zM10.5,7.5l-2,5.5l-0.2,-1.1c-0.4,-1.3 -1.6,-2.7 -3,-3.4l1.9,6h2.4l3.5,-7h-2.6zM13.5,7.5h2.3l1.5,7h-2.3l-1.5,-7zM18.5,7.5h2.4l-1.5,7h-2.4l1.5,-7z"/>
+    
+    <!-- Orange Stripe -->
+    <path
+        android:fillColor="#F79E1B"
+        android:pathData="M7.5,9.5h9v1.5h-9z"/>
+</vector> 
